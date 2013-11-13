@@ -1,7 +1,7 @@
 {
   "name": "gl-shader-hook",
   "description": "Instruments WebGL shaders to keep track of updates and modify existing shaders on the fly.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {
