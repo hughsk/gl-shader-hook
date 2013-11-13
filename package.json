@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "main": "index.js",
   "browser": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "inherits": "~2.0.1"
+  },
   "devDependencies": {},
   "scripts": {},
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
