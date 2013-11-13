@@ -1,0 +1,27 @@
+{
+  "name": "gl-shader-hook",
+  "description": "Instruments WebGL shaders to keep track of updates and modify existing shaders on the fly.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/gl-shader-hook"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/gl-shader-hook/issues"
+  },
+  "keywords": [
+    "browserify",
+    "glsl",
+    "shader",
+    "webgl",
+    "instrumentation",
+    "development"
+  ]
+}
